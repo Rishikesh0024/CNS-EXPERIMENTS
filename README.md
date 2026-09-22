@@ -4,20 +4,22 @@ This repository contains the practical experiments performed as part of the **Cr
 
 ## 📚 Experiments
 
-| Experiment | Topic                                  |
-| ---------- | -------------------------------------- |
-| CNS Exp-1  | Classical Cryptography Algorithms      |
-| CNS Exp-2  | Cryptanalysis Using Frequency Analysis |
-| CNS Exp-3  | AES and 3DES                           |
-| CNS Exp-4  | Secure Random Number Generation        |
-| CNS Exp-5  | Euclid's Algorithm                     |
-| CNS Exp-6  | Primality Testing Algorithms           |
+| **Experiment** | **Topic**                                                      |
+| -------------- | -------------------------------------------------------------- |
+| CNS Exp-1      | Classical Cryptography Algorithms                              |
+| CNS Exp-2      | Cryptanalysis Using Frequency Analysis                         |
+| CNS Exp-3      | AES and 3DES                                                   |
+| CNS Exp-4      | Secure Random Number Generation                                |
+| CNS Exp-5      | Euclid's Algorithm                                             |
+| CNS Exp-6      | Primality Testing Algorithms                                   |
+| CNS Exp-7      | RSA Key Generation, Encryption, Decryption and Digital Signing |
 
 ## 🛠️ Technologies Used
 
 * Python 3
 * NumPy
 * SciPy
+* PyCryptodome
 * Cryptography concepts and algorithms
 
 ## 📁 Repository Structure
@@ -30,7 +32,8 @@ CNS-EXPERIMENTS/
 ├── CNS Exp-3/
 ├── CNS Exp-4/
 ├── CNS Exp-5/
-└── CNS Exp-6/
+├── CNS Exp-6/
+└── CNS Exp-7/
 ```
 
 ## 🎯 Objective
